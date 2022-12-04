@@ -1,6 +1,6 @@
 # Alien_invasion
 
-### Algorithm and programming forum week 9
+### Algorithm and Programming forum week 9
 
 Name: Francesco Emmanuel Setiawan
 <br>
